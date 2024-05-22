@@ -2,7 +2,7 @@
 Mangesh Patil the Analyst
 
 <p align="center">
-  <img src="https://github.com/Mr-Patil/My-profile/blob/main/1666384647124-2.jpeg" alt="Animated Banner Placeholder" width="500px" height="250px"/> <!-- Placeholder banner. Replace with your own! -->
+  <img src="https://github.com/Mr-Patil/My-profile/blob/main/1666384647124-2.jpeg" alt="Animated Banner Placeholder" width="900px" height="250px"/> <!-- Placeholder banner. Replace with your own! -->
 </p>
 <table border="0">
 <tr>
