@@ -20,7 +20,7 @@ Dive into my repositories to discover my ventures into the vast ocean of Data Sc
   <p align="center">
     <a href="https://github.com/Mr-Patil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
     <a href="https://www.linkedin.com/in/mangesh-s-patil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-    <a href="YourPortfolioWebsiteURLHere">
+    <a href="https://mr-patil.github.io/MangeshTheAnalyst.github.io/index.html">
   <img src="https://img.shields.io/badge/Portfolio-YourColorCodeHere?style=for-the-badge&logo=YourLogoHere&logoColor=white" alt="Portfolio Badge">
 </a>
 
