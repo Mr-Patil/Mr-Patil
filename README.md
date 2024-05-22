@@ -2,13 +2,13 @@
 Mangesh Patil the Analyst
 
 <p align="center">
-  <img src="https://github.com/Mr-Patil/My-profile/blob/main/1666384647124-2.jpeg" alt="Animated Banner Placeholder" width="1000px" height="350px"/> <!-- Placeholder banner. Replace with your own! -->
+  <img src="https://github.com/Mr-Patil/My-profile/blob/main/1666384647124-2.jpeg" alt="Animated Banner Placeholder" width="500px" height="250px"/> <!-- Placeholder banner. Replace with your own! -->
 </p>
 <table border="0">
 <tr>
 <td style="border: none;">
   <!-- Profile Picture -->
-  <img src="https://github.com/Mr-Patil/My-profile/blob/main/WhatsApp%20Image%202024-03-16%20at%2006.32.50.jpeg" alt="Mangesh Patil" width="800" style="border-radius: 50%;" />
+  <img src="https://github.com/Mr-Patil/My-profile/blob/main/WhatsApp%20Image%202024-03-16%20at%2006.32.50.jpeg" alt="Mangesh Patil" width="500" style="border-radius: 50%;" />
 </td>
 <td style="border: none;">
   <!-- Description -->
