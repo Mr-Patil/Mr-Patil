@@ -75,7 +75,7 @@ Stats
 
 Each day, I find myself deeply engrossed in the realm of data analysis, meticulously examining datasets to unearth invaluable insights crucial for informed decision-making. Alongside this professional pursuit, I indulge my curiosity by delving into the latest techniques and tools through reading, watching podcasts, and exploring vibrant cities. This multidimensional exploration not only enriches my understanding of data science but also fuels my creativity and problem-solving skills, making every day as a data analyst both intellectually stimulating and fulfilling.
 
-📍 Location: New York, NY | 📩 Email: mp73467n@pace.edu | 
+📍 Location: New York, NY | 📩 Email: mp73467n@pace.edu | mp73467n@gmail.com
 
 📚 Education
 
