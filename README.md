@@ -14,7 +14,7 @@ Mangesh Patil the Analyst
   <!-- Description -->
 Hi, my name is Mangesh Patil. I've pursued a Master of Science in Data Science at Pace University NY, I graduated in May 2024. Looking ahead, I am eager to contribute my skills in data analytics and machine learning to a challenging role, where I can apply my expertise in optimizing business decisions and fostering innovation in the field. In my academic journey, I've gained proficiency in Python, R, SQL, and a variety of data analysis and machine learning tools let’s dive into my Portfolio..
 
-Dive into my repositories to discover my ventures into the vast ocean of Data Science, AI, and Machine Learning.
+
 
   <!-- Social Media Buttons -->
   <p align="center">
@@ -81,14 +81,12 @@ Each day, I find myself deeply engrossed in the realm of data analysis, meticulo
 
 Pace University, Seidenberg School of Computer Science
 Master of Science in Data Science | GPA: 3.66
-New York, NY | May 2022 - May 2024
+New York, NY | May 2024
 
 Terna Engineering College (University of Mumbai)
 Bachelor of Engineering in Electronics Engineering | GPA: 3.00
-Mumbai, India | May 2018 - May 2022
+Mumbai, India | May 2022
 
-🎓 Relevant Coursework
 
-Data Mining | Machine Learning | Intro to Data Science | Mathematical Foundation of Analytics | Python for Data Science | Database Management and SQL | Scalable Database | Deep Learning | Algorithms | Analytical Capstone Project
 
 
